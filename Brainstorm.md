@@ -222,3 +222,41 @@ Motivation: Hvad skal der til?
 Foto
 
 Personatekst
+
+# Presentation
+## Intro
+* Hvad er Gærum Form og Trivsel?
+* Hvem ligger i min målgruppe? + lille præsentation af persona
+
+## Deres nuværende side m. usabilitytests
+* Rodet content - informationer kan være svær at finde + Facebookside gemt
+* Manglende information - Nævnes ikke meget om den gratis prøvetime, intet om FKI samarbejde
+* Konklusionen af tests
+  - Hvorfor syntes jeg, at den ikke var attraktiv?
+  - Manglende struktur og information
+  - Mangel på kunderejse
+
+## Forabejdet
+### Content kortsortering vba. Cardsmith
+* Hvilke sider er der nu? Fjernet "Om" og "Nyhedsbrev", tak til usabilitytests
+* Hjalp ift. struktur af content
+* Hvilke sider var vigtigst
+
+### Kunderejsen
+* Bliv medlem over Centeret, Instruktører, Nyheder mm. - Forside + Bliv medlem (& flyout menu)
+
+### Wireframes
+* Mobil design havde for meget plads på skitse
+* Skift af vægtikon til facebook logo
+
+## Det endelige design
+* Min styletile & minidesign manual
+* Valg af den blå farve + grøn & rød
+
+## Prototypen i Figma
+* Hvordan fungerer min kunderejse i praksis?
+
+## Refleksioner
+* Godt arbejde - god enkelthed og struktur
+* Min brugte tid - for lang tid til at forstå det store billede, og hvor lang tid man "burde" bruge på hver opgave.
+* Hvis mere tid, Instruktører og evt. Centeret & Kontakt
