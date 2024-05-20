@@ -238,12 +238,12 @@ Personatekst
 
 ## Forabejdet
 ### Content kortsortering vba. Cardsmith
-* Hvilke sider er der nu? Fjernet "Om" og "Nyhedsbrev", tak til usabilitytests
+* Hvilke sider er der nu? Fjernet "Om" og "Nyhedsbrev", tak til usabilitytests - outdated Om? evt. Forside?
 * Hjalp ift. struktur af content
 * Hvilke sider var vigtigst
 
 ### Kunderejsen
-* Bliv medlem over Centeret, Instruktører, Nyheder mm. - Forside + Bliv medlem (& flyout menu)
+* Bliv medlem > Centeret, Instruktører, Nyheder mm. - Forside + Bliv medlem (& flyout menu)
 
 ### Wireframes
 * Mobil design havde for meget plads på skitse
@@ -255,8 +255,10 @@ Personatekst
 
 ## Prototypen i Figma
 * Hvordan fungerer min kunderejse i praksis?
+ - CTA størst kontrast i "The fold"
 
 ## Refleksioner
 * Godt arbejde - god enkelthed og struktur
 * Min brugte tid - for lang tid til at forstå det store billede, og hvor lang tid man "burde" bruge på hver opgave.
+ - evt. mere tid til eksperimentering af fonte/farver
 * Hvis mere tid, Instruktører og evt. Centeret & Kontakt
